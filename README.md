@@ -7,17 +7,17 @@
 - iTerm2_Profile.itermcolors
 
 ## Step 1
-- $ brew install vim
-- $ brew install tmux
+- ```$ brew install vim```
+- ```$ brew install tmux```
 
 ## Step 2
-- $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+- ```$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim```
 
 ## Step 3
-- $ mv .vimrc .tmux.conf ~
+- ```$ mv .vimrc .tmux.conf ~```
 
 ## Step 4
-- $ vim
-- $ PluginInstall
+- ```$ vim```
+- ```$ PluginInstall```
 
 
