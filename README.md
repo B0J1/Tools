@@ -14,7 +14,8 @@
 - ```$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim```
 
 ## Step 3
-- ```$ mv .vimrc .tmux.conf ~```
+- ```$ mv .vimrc ~```
+- ```$ mv .tmux.conf ~```
 
 ## Step 4
 - ```$ vim```
